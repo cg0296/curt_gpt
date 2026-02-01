@@ -1,2 +1,2 @@
-# commodity_recommendation_agent
-Stream lit app that summarizes commodity recommendations
+# llm chat bot
+Stream lit app that chats back
