@@ -11,6 +11,8 @@ A simple Streamlit chat-style app that sends a prompt to the OpenAI Responses AP
 <img width="916" height="535" alt="image" src="https://github.com/user-attachments/assets/cf8a5abc-0b0f-40c4-a2a2-e9e8eea0e2c1" />
 
 - Output persists across reruns
+- 
+<img width="920" height="334" alt="image" src="https://github.com/user-attachments/assets/15ae7723-94d7-4bd7-ac75-c21a954433da" />
 
 <img width="831" height="712" alt="image" src="https://github.com/user-attachments/assets/365eb7d4-a0db-46c8-a739-b0e806aa877f" />
 
